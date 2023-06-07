@@ -9,3 +9,4 @@ this is a server to show name from query with testing method like:
 
 ## the website link:
    - [click here]( https://basic-express-server-wvvj.onrender.com )
+   - [Test Link](https://basic-express-server-wvvj.onrender.com/person?name=AbuEssa)
